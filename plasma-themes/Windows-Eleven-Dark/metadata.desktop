@@ -1,0 +1,25 @@
+[Desktop Entry]
+Name=Windows-Eleven-Dark
+
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Name=Windows-Eleven-Dark
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL 3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Windows-Eleven-02
+defaultFileSuffix=.jpg
+defaultWidth=3841
+defaultHeight=1400
+
+[AdaptiveTransparency]
+enabled=true

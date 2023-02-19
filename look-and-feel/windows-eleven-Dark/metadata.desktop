@@ -1,0 +1,20 @@
+[Desktop Entry]
+Name=windows-eleven-Dark
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=windows-eleven-Dark
+X-KDE-PluginInfo-Version=
+X-KDE-PluginInfo-Website=
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1554625,kns://plasma-themes.knsrc/api.kde-look.org/1989107,kns://aurorae.knsrc/api.kde-look.org/1984455,kns://icons.knsrc/api.kde-look.org/1977340,kns://wallpaper.knsrc/api.kde-look.org/1978301,kns://xcursor.knsrc/api.kde-look.org/1436673,kns://plasmoids.knsrc/api.kde-look.org/1545530
+X-Plasma-MainScript=defaults
