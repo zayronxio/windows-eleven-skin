@@ -1,0 +1,24 @@
+[Desktop Entry]
+Name=Windows-Beuty
+
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Name=Windows-Beuty
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/zayronxio/windows-eleven-skin
+X-KDE-PluginInfo-License=GPL 3.0
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[Wallpaper]
+defaultWallpaperTheme=Windows-Eleven-Classic
+defaultFileSuffix=.jpg
+defaultWidth=3840
+defaultHeight=2400
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true
