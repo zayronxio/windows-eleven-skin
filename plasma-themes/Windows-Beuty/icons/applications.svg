@@ -2514,19 +2514,19 @@
        id="rect1619" />
     <path
        id="rect1621"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -32 14 C -32.554 14 -33 14.446 -33 15 L -33 19 C -33 19.554 -32.554 20 -32 20 L -28 20 C -27.446 20 -27 19.554 -27 19 L -27 15 C -27 14.446 -27.446 14 -28 14 L -32 14 z M -32 15 L -28 15 L -28 19 L -32 19 L -32 15 z " />
     <path
        id="rect1623"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -24,14 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 4 v 4 h -4 z" />
     <path
        id="rect1625"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M -32 22 C -32.554 22 -33 22.446 -33 23 L -33 27 C -33 27.554 -32.554 28 -32 28 L -28 28 C -27.446 28 -27 27.554 -27 27 L -27 23 C -27 22.446 -27.446 22 -28 22 L -32 22 z M -32 23 L -28 23 L -28 27 L -32 27 L -32 23 z " />
     <path
        id="rect1627"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -24,22 c -0.554,0 -1,0.446 -1,1 v 4 c 0,0.554 0.446,1 1,1 h 4 c 0.554,0 1,-0.446 1,-1 v -4 c 0,-0.554 -0.446,-1 -1,-1 z m 0,1 h 4 v 4 h -4 z" />
   </g>
   <g
@@ -2545,28 +2545,28 @@
        transform="translate(0.5,0.5)">
       <path
          id="rect1638"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 11 9 C 9.892 9 9 9.892 9 11 L 9 13 C 9 14.108 9.892 15 11 15 L 13 15 C 14.108 15 15 14.108 15 13 L 15 11 C 15 9.892 14.108 9 13 9 L 11 9 z M 11 10 L 13 10 C 13.554 10 14 10.446 14 11 L 14 13 C 14 13.554 13.554 14 13 14 L 11 14 C 10.446 14 10 13.554 10 13 L 10 11 C 10 10.446 10.446 10 11 10 z "
          transform="translate(-0.5,-0.5)" />
       <path
          id="rect1748"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 19 9 C 17.892 9 17 9.892 17 11 L 17 13 C 17 14.108 17.892 15 19 15 L 21 15 C 22.108 15 23 14.108 23 13 L 23 11 C 23 9.892 22.108 9 21 9 L 19 9 z M 19 10 L 21 10 C 21.554 10 22 10.446 22 11 L 22 13 C 22 13.554 21.554 14 21 14 L 19 14 C 18.446 14 18 13.554 18 13 L 18 11 C 18 10.446 18.446 10 19 10 z "
          transform="translate(-0.5,-0.5)" />
       <path
          id="rect1750"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 11 17 C 9.892 17 9 17.892 9 19 L 9 21 C 9 22.108 9.892 23 11 23 L 13 23 C 14.108 23 15 22.108 15 21 L 15 19 C 15 17.892 14.108 17 13 17 L 11 17 z M 11 18 L 13 18 C 13.554 18 14 18.446 14 19 L 14 21 C 14 21.554 13.554 22 13 22 L 11 22 C 10.446 22 10 21.554 10 21 L 10 19 C 10 18.446 10.446 18 11 18 z "
          transform="translate(-0.5,-0.5)" />
       <path
          id="rect1752"
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.77586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 19 17 C 17.892 17 17 17.892 17 19 L 17 21 C 17 22.108 17.892 23 19 23 L 21 23 C 22.108 23 23 22.108 23 21 L 23 19 C 23 17.892 22.108 17 21 17 L 19 17 z M 19 18 L 21 18 C 21.554 18 22 18.446 22 19 L 22 21 C 22 21.554 21.554 22 21 22 L 19 22 C 18.446 22 18 21.554 18 21 L 18 19 C 18 18.446 18.446 18 19 18 z "
          transform="translate(-0.5,-0.5)" />
     </g>
     <path
        id="path1638"
-       style="opacity:0.996111;fill:#000000;fill-opacity:1;stroke-width:0.692308;stroke-linecap:round;paint-order:stroke fill markers"
+       style="opacity:0.996111;fill:#fbfbfb;fill-opacity:1;stroke-width:0.692308;stroke-linecap:round;paint-order:stroke fill markers"
        d="M 15.886719 1 A 15 15 0 0 0 1 16 A 15 15 0 0 0 16 31 A 15 15 0 0 0 31 16 A 15 15 0 0 0 16 1 A 15 15 0 0 0 15.886719 1 z M 16 2 A 14 14 0 0 1 30 16 A 14 14 0 0 1 16 30 A 14 14 0 0 1 2 16 A 14 14 0 0 1 16 2 z " />
   </g>
 </svg>
